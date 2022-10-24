@@ -1,0 +1,415 @@
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\AMS_Engine.exe
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\AMS_Engine.pdb
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Data.v17.1.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraGauges.v17.1.Win.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\Microsoft.CSharp.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\System.Data.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\System.Deployment.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\System.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\System.Drawing.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\System.ServiceProcess.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\System.Windows.Forms.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\System.Xml.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\System.Xml.Linq.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Office.v17.1.Core.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Data.v17.1.xml
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraGauges.v17.1.Win.xml
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Office.v17.1.Core.xml
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csprojAssemblyReference.cache
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csproj.ResolveComReference.cache
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.frmLogEngine.resources
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.Properties.Resources.resources
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csproj.GenerateResource.cache
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.exe.licenses
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csproj.CoreCompileInputs.cache
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csproj.CopyComplete
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.exe
+E:\Project\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.pdb
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\AMS_Engine.exe
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\AMS_Engine.pdb
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Data.v17.1.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraGauges.v17.1.Win.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\Microsoft.CSharp.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\System.Data.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\System.Deployment.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\System.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\System.Drawing.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\System.ServiceProcess.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\System.Windows.Forms.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\System.Xml.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\System.Xml.Linq.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Office.v17.1.Core.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Data.v17.1.xml
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraGauges.v17.1.Win.xml
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Office.v17.1.Core.xml
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+E:\Project\MK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csprojAssemblyReference.cache
+E:\Project\MK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csproj.ResolveComReference.cache
+E:\Project\MK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.frmLogEngine.resources
+E:\Project\MK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.Properties.Resources.resources
+E:\Project\MK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csproj.GenerateResource.cache
+E:\Project\MK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.exe.licenses
+E:\Project\MK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csproj.CoreCompileInputs.cache
+E:\Project\MK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csproj.CopyComplete
+E:\Project\MK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.exe
+E:\Project\MK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.pdb
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\AMS_Engine.exe
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\AMS_Engine.pdb
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Data.v17.1.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraGauges.v17.1.Win.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\Microsoft.CSharp.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\System.Data.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\System.Deployment.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\System.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\System.Drawing.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\System.ServiceProcess.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\System.Windows.Forms.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\System.Xml.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\System.Xml.Linq.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraBars.v17.1.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Office.v17.1.Core.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Data.v17.1.xml
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraGauges.v17.1.Win.xml
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraBars.v17.1.xml
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Office.v17.1.Core.xml
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+E:\Project\KMK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csprojAssemblyReference.cache
+E:\Project\KMK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csproj.ResolveComReference.cache
+E:\Project\KMK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.frmLogEngine.resources
+E:\Project\KMK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.Properties.Resources.resources
+E:\Project\KMK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csproj.GenerateResource.cache
+E:\Project\KMK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.exe.licenses
+E:\Project\KMK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csproj.CoreCompileInputs.cache
+E:\Project\KMK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csproj.CopyComplete
+E:\Project\KMK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.exe
+E:\Project\KMK\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.pdb
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\AMS_Engine.exe
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\AMS_Engine.pdb
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Data.v17.2.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Office.v17.2.Core.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.RichEdit.v17.2.Export.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Utils.v17.2.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraGauges.v17.2.Win.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\Microsoft.CSharp.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\System.Data.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\System.Deployment.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\System.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\System.Drawing.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\System.ServiceProcess.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\System.Windows.Forms.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\System.Xml.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\System.Xml.Linq.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Images.v17.2.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraBars.v17.2.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Data.v17.2.xml
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Utils.v17.2.xml
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Office.v17.2.Core.xml
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraGauges.v17.2.Win.xml
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraBars.v17.2.xml
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csprojAssemblyReference.cache
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csproj.ResolveComReference.cache
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.frmLogEngine.resources
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.frmStopCall.resources
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.Properties.Resources.resources
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csproj.GenerateResource.cache
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.exe.licenses
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.csproj.CopyComplete
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.exe
+D:\Project\Visual Studio\KMK Global Sport\AMS_Engine\AMS_Engine\obj\Debug\AMS_Engine.pdb
